@@ -1,5 +1,6 @@
 # Dennis Academy — Splunk Core Certified User Practice Console
 link https://d3nniskimani.github.io/Dennis--Academy/
+
 A self-contained, mobile-friendly practice exam tool for the Splunk Core Certified User (SPLK-1001) certification. Built as a single HTML file — no backend, no database, runs entirely in the browser.
 
 ## Question Bank
